@@ -25,4 +25,4 @@ def vigenere_cipher(text, key, decrypt=True):
 ciphertext_vigenere = "JRHTOIWNB SO"
 key_vigenere = "BEEF"
 decrypted_vigenere = vigenere_cipher(ciphertext_vigenere, key_vigenere)
-print("Jawaban dari nomer 2 :", decrypted_vigenere)
+print("Jawaban dari Nomer 2 :", decrypted_vigenere)
