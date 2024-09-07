@@ -17,4 +17,4 @@ def caesar_cipher(text, shift):
 ciphertext_caesar = "ONYV ONTHF"
 key_caesar = 13
 decrypted_caesar = caesar_cipher(ciphertext_caesar, key_caesar)
-print("Jawaban dari nomer 1 :", decrypted_caesar)
+print("Jawaban dari Nomer 1 :", decrypted_caesar)
