@@ -21,7 +21,7 @@ def vigenere_cipher(text, key, decrypt=True):
             result += char
     return result
 
-# Ciphertext: JRHTOIWNB SO
+# Soal: JRHTOIWNB SO
 ciphertext_vigenere = "JRHTOIWNB SO"
 key_vigenere = "BEEF"
 decrypted_vigenere = vigenere_cipher(ciphertext_vigenere, key_vigenere)
