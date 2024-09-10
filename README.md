@@ -3,8 +3,12 @@
 
 
 ## Jawaban 1
-![Screenshot (205)](https://github.com/user-attachments/assets/e5a24c69-c3f6-47c0-aaa4-baa76846444a)
+BALI BAGUS
+
+![Screenshot (210)](https://github.com/user-attachments/assets/0534b521-5662-49b8-94c8-c3aec92ff963)
+
 
 ## Jawaban 2
-![Screenshot (206)](https://github.com/user-attachments/assets/420d2c3a-ac9b-4c31-bbfc-c3bbb1ffea1f)
+INDONESIA OJ
 
+![Screenshot (211)](https://github.com/user-attachments/assets/36e7ec92-941f-4ad6-9497-57f8b754870b)
